@@ -1,0 +1,8 @@
+Rahul: We need to finalize the database choice today.
+Priya: PostgreSQL is a good fit for our application.
+Rahul: Agreed. We will use PostgreSQL for the project.
+Rahul: Priya, please finish the authentication module by Thursday.
+Priya: Yes, I will finish it by Thursday.
+Amit: Should we build a mobile app as well?
+Rahul: We have not decided. Let's revisit that next week.
+Rahul: I will prepare the database schema by Friday.
